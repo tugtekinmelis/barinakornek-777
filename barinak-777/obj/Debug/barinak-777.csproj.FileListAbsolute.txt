@@ -1,0 +1,8 @@
+C:\Users\User\source\repos\barinak-777\barinak-777\obj\Debug\barinak-777.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\barinak-777\barinak-777\obj\Debug\barinak-777.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\barinak-777\barinak-777\obj\Debug\barinak_777.Form1.resources
+C:\Users\User\source\repos\barinak-777\barinak-777\obj\Debug\barinak_777.ListeleForm.resources
+C:\Users\User\source\repos\barinak-777\barinak-777\obj\Debug\barinak_777.Properties.Resources.resources
+C:\Users\User\source\repos\barinak-777\barinak-777\obj\Debug\barinak_777.YeniEkleForm.resources
+C:\Users\User\source\repos\barinak-777\barinak-777\obj\Debug\barinak-777.csproj.GenerateResource.cache
+C:\Users\User\source\repos\barinak-777\barinak-777\obj\Debug\barinak-777.csproj.CoreCompileInputs.cache
